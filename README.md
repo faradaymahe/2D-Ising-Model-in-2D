@@ -15,7 +15,8 @@ Ferromagnetic Material
 ```
 ## Aim
 ```
-To show, there's a phase transition in 2D and to calculate the curie temperature (i.e. Critical Temperature)
+To show, there's a phase transition in 2D and to calculate the curie temperature 
+(i.e. Critical Temperature)
 ```
 ## Version
 ```
