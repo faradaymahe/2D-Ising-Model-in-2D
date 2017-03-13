@@ -1,5 +1,5 @@
 # Ising Model in 2D
-Author: Damodar Rajbhandari (damicristi7@live.com) 
+** Author: Damodar Rajbhandari (damicristi7@live.com) ** 
 
 ## Main Work
 ```
