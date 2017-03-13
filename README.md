@@ -1,28 +1,28 @@
 # Ising Model in 2D
-**Author: Damodar Rajbhandari (damicristi7@live.com)**
+** Author: Damodar Rajbhandari (damicristi7@live.com)**
 
-##Main Work
+## Main Work
 ```
 This is the numerical implementation of Ising model in 2D .
 ```
-##Strategies
+## Strategies
 ```
 Lattice and Spin Model
 ```
-##Object
+## Object
 ```
 Ferromagnetic Material
 ```
-##Aim
+## Aim
 ```
 To show, there's a phase transition in 2D and to calculate the curie temperature (i.e. Critical Temperature)
 ```
-##Version
+## Version
 ```
 Python v.3.5
 ```
-##Programming Approach
+## Programming Approach
 ```
 Object Oriented Programming
 ```
-#Thank you for reading!
+# Thank you for reading!
