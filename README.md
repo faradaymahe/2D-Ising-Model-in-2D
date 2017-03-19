@@ -2,7 +2,7 @@
 Author: Damodar Rajbhandari (damicristi7@live.com)  
 
 ## Introduction
-Spontaneous magnetization is a very peculiar property in ferromagnetic material. So, this phenomenon arose curiousity to many physicists in twenty century. At that time, it did not have a perfect mathematical model to explain properly until Ernst Ising turn. He introduce a model which we now known as “Ising Model”. But, the credit goes to his doctorial advisor Wilhelm Lenz, who gave it as a problem to him.
+Spontaneous magnetization is a very peculiar property in ferromagnetic material. So, this phenomenon arose curiousity to many physicists in twentieth century. At that time, it did not have a perfect mathematical model to explain properly until Ernst Ising turn. He introduce a model which we now known as “Ising Model”. But, the credit goes to his doctorial advisor Wilhelm Lenz, who gave it as a problem to him.
 
 ## Main Work
 ```
