@@ -8,21 +8,14 @@ import matplotlib.pyplot as plot
 N = 256 #no. of spins
 x = np.linspace(0.1, 4, 128)
 
-Collect = []
+Mean_Collect = []
 for temp in x:
 
-	infile = open("Data/Temp_%s.csv" %temp, "r")
-
-	Data = infile.readlines()
-
-	sum = 0
-	for data in Data[2:]:
-		sum += abs(float(data))
-		
-	MPS = sum/(len(Data[2:])*N) # <|Magnetization|> per spin 
-	Collect.append(MPS)
-	infile.close()
-	del MPS
+	with open("Data/Temp_%s.csv" %temp, "r") as infile:
+		Data = infile.readlines() 
+		Abs_Data = np.array([abs(float(x)) for x in Data[2:]])
+		MPS = np.mean(Abs_Data/N)  # <|Magnetization|> per spin 
+		Mean_Collect.append(MPS)
 
 #Coding for Osager Solution's for Finding Curie Temperature.
 
