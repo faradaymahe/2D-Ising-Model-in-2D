@@ -30,4 +30,3 @@ Python v.3.5
 Object Oriented Programming
 ```
 # Thank you for reading!
-##### [Click Here to go in Home page](https://damicristi.github.io/)
